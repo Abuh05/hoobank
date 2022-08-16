@@ -22,7 +22,6 @@ const Hero = () => {
               Generation 
             </span> { " "} Payment Method
            </h1>
->>>>>>> 177507c7cca754e7280514cc616d002e68ed946f
       </div>
     </div>
    </section>
