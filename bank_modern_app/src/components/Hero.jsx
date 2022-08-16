@@ -15,6 +15,13 @@ const Hero = () => {
           <span className='text-white'>20%</span>discount For {" "}
          <span className='text-white'>1 Month</span>Account</p>
       </div>
+      <div className='flex flex-row justify-between items-center w-full'>
+        <h1 className='flex-1 font-poppins font-semibold sm:text-[72px] text-[52px] text-white'>
+          The Next <br  className='sm:block hidden'/> 
+          <span className='text-gradient'>Generation</span> { " " }
+          Payment Method
+        </h1>
+      </div>
     </div>
    </section>
   )
